@@ -14,12 +14,6 @@ By re-implementing the model with proper time-aware validation (e.g., walk-forwa
 - Re-evaluation using time series–appropriate validation
 - Discussion of implications for future financial ML research
 
-## Repository Structure
-- `notebooks/`: Replication and analysis notebooks
-- `src/`: Modular code for preprocessing and modeling
-- `data/`: Sample datasets (synthetic or anonymized)
-- `README.md`: Project overview and findings
-
 ## Authors
 Suvedei Soyol-Erdene  
 Baruch College – Math 4130  
